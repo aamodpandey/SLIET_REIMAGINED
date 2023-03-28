@@ -867,8 +867,12 @@ textarea {
 .card-social-links {
     display: flex;
     justify-content: center;
+    transform: translateY(10%);
 }
+.card-rahul{
+    transform: translateY(20%);
 
+}
 .card-social-links a {
     display: inline-block;
     width: 40px;
